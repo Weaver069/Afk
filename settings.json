@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BlqckRoses_",
+    "username": "Amon",
     "password": "",
     "type": "offline"
   },
@@ -20,11 +20,11 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "974555"
+      "password": "Dont_Judge_A_God"
     },
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
     "chat-messages": {
       "enabled": false,
@@ -42,18 +42,18 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
